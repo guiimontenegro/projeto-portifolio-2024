@@ -1,5 +1,9 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+![img1](https://github.com/guiimontenegro/projeto-portifolio-2024/blob/master/Screen1.png)
+![img2](https://github.com/guiimontenegro/projeto-portifolio-2024/blob/master/Screen2.png)
+![img3](https://github.com/guiimontenegro/projeto-portifolio-2024/blob/master/Screen3.png)
+
 # Projeto-portifolio
  Portifolio Criado com ReactJs, NextJs e TypeScript
 
